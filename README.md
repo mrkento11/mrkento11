@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mrkento11
+- 👀 I’m interested in Python, VBA, and MatLab.
+- 🌱 I’m currently learning MatLab.
+- 💞️ I’m looking to collaborate on MatLab.
+- 📫 How to reach me m103610005@g-mail.nsysu.edu.tw
