@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "Please, if you use this code, cite as below."
+author:
+	- family-names: Girón Navarro
+	   given-names: Kenny
+	   orcid https://orcid.org/0009-0004-8718-6035
+title: "Hard Linking GEP with UCP for flexibility verification: Code"
+version: v18
+date-release: 2023-APR-08
